@@ -34,6 +34,7 @@ Contributions welcome (PRs). Links marked 🟢 are **free / open data**, 🔵 **
 | UAE | bayut.com, propertyfinder.ae, dubizzle.com |
 
 ## APIs & datasets
+- 🔵 **[BatchData](https://batchdata.io)** — U.S. property data API covering 169 million+ U.S. parcels (property search, skip tracing, valuations, address verification), plus a hosted MCP server.
 - 🔵 **PropertyData (UK)**, **PriceHubble**, **Quintos** — commercial property-data APIs.
 - 🟢 **Kaggle** — search "house prices" / "real estate" for community datasets.
 - 🔵 **OpenStreetMap / ONS / data.gov.uk** — geo + area context to join with sales.
